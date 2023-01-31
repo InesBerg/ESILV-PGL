@@ -102,13 +102,32 @@ rm -rv notes
 ## Exercise 3
 
 #### Q1: Create a script script_1.sh in the folder linux_ex_1
-
+```
+nano scrip_1.sh
+```
 #### Q2: In the script, write the commands that would output the following :
 #### Script running please wait ...
 #### Done.
-
+```
+echo "Script running please wait..."
+echo "Done."
+```
 #### Q3: Quit editing and save the script
-
+ctrl x 
+Y
+entrance
+```
+cmod +x script_1.sh   (make the script executable)
+```
 #### Q4: Display the content of the script (using a command, not from an editor)
-
+```
+cat script_1.sh
+```
 #### Q5: Run the script
+```
+./script_1.sh
+```
+
+#### Exercise 4
+
+##### Exercise 4.1
