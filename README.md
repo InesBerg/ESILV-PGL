@@ -217,7 +217,7 @@ chmod a+rwx credentials
 ls -l credentials
 ```
 
-### Exercise 4:.2 Access root files
+### Exercise 4.2 Access root files
 
 #### Q1: Go to the root folder
 ```
